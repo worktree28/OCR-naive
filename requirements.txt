@@ -1,0 +1,9 @@
+pdf2image -> https://pypi.org/project/pdf2image/
+pytesseract -> https://pypi.org/project/pytesseract/
+opencv -> https://pypi.org/project/opencv-python/
+matplotlib -> https://pypi.org/project/matplotlib/
+numpy -> https://pypi.org/project/numpy/
+regex as re in python (preinstalled)
+
+highly reccomend installing anaconda for runnning this notebook
+
